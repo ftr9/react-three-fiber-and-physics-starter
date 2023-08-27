@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# React three fiber and physics starter
+
+## Tools
+
+| Packages           | Description                                         |
+| ------------------ | --------------------------------------------------- |
+| @react-three/fiber | React-three-fiber is a React renderer for three.js. |
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
