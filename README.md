@@ -2,9 +2,13 @@
 
 ## Tools
 
-| Packages           | Description                                         |
-| ------------------ | --------------------------------------------------- |
-| @react-three/fiber | React-three-fiber is a React renderer for three.js. |
+| Packages            | Description                                                                                                            |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| @react-three/fiber  | React-three-fiber is a React renderer for three.js.                                                                    |
+| @react-three/drei   | A growing collection of useful helpers and fully functional, ready-made abstractions for @react-three/fiber            |
+| @react-three/cannon | physics based hooks for @react-three/fiber                                                                             |
+| Vite                | Next generation frontend tooling. It's fast!                                                                           |
+| Typescript          | TypeScript speeds up your development experience by catching errors and providing fixes before you even run your code. |
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
